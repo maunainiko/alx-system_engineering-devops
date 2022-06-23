@@ -1,1 +1,1 @@
-file tupe
+symbolic link
