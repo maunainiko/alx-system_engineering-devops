@@ -1,1 +1,1 @@
-symbolic link
+magic files
