@@ -1,1 +1,1 @@
-permission for other users
+change the mode of a file
