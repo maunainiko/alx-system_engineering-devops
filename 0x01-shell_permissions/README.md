@@ -1,1 +1,1 @@
-execution permission to everyone
+permission for other users
