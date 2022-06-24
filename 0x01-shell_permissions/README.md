@@ -1,1 +1,1 @@
-owner and group
+sym link permissions
