@@ -1,1 +1,1 @@
-reverse inputs
+users and home dir
