@@ -1,1 +1,1 @@
-delete regular files
+directories
