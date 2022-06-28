@@ -1,1 +1,1 @@
-echo
+global var
