@@ -1,1 +1,1 @@
-global var
+12
