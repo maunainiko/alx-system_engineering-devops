@@ -1,1 +1,1 @@
-environment variables
+list all local and global variables
