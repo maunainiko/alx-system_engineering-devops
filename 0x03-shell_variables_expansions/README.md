@@ -1,1 +1,1 @@
-12
+divide and rule
